@@ -5,7 +5,7 @@ I'm Alexey, Fullstack developer from  **Moscow, Russia**, currently living in **
 A Few Quick Facts: 
 
 - 🧐 Learning about **serverless architectures**, **distributed systems**, and a bit of **Dapp**.
-- ⚡ Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **climbing** and **triathlon** to some whacky ones like **touch typing**.
+- ⚡ Outside the world of tech too, I enjoy pushing myself to **develop new skills**. My hobbies range from **climbing** and **triathlon** to some whacky ones like **touch typing**.
 - 💬 Ping me about **react**, **devops**, **system design** and **cloud stuff**.
 - 📙 Check out my **[resume](https://www.linkedin.com/in/alexey-tatarchuk/)**.
 
