@@ -1,9 +1,18 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
+I'm Alexey, Fullstack developer from  **Moscow, Russia**, currently living in **Dubai, UAE**. 
+
+A Few Quick Facts: 
+
+- 🧐 Learning about **serverless architectures**, **distributed systems**, and a bit of **Dapp**.
+- ⚡ Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from climbing and triathlon to some whacky ones like touch typing.
+- 💬 Ping me about **react**, **devops**, **system design** and **cloud stuff**.
+- 📙 Check out my [resume](https://www.linkedin.com/in/alexey-tatarchuk/).
+
+
 ## 🛠️ Skills
 
-### Languages
-
+### Languages 
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label=)
@@ -37,7 +46,7 @@
 
 ## 🔗 Links
 
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)]()
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.linkedin.com/in/alexey-tatarchuk/)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alexey-tatarchuk/)
 [![LeetCode user alexeytatarchuk](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Falexeytatarchuk&logo=leetcode&logoColor=yellow)](https://leetcode.com/alexeytatarchuk/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexey.tatarchuk@gmail.com)
